@@ -1,4 +1,4 @@
-package eu.agileactors;
+package org.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
@@ -10,7 +10,7 @@ import org.springframework.context.annotation.ImportResource;
 import com.sun.xml.ws.transport.http.servlet.WSSpringServlet;
 
 @EnableAutoConfiguration
-@ComponentScan("eu.agileactors.ws")
+@ComponentScan("org.demo.ws")
 @ImportResource(locations = "ws-config.xml")
 public class Application {
 
