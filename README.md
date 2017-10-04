@@ -13,7 +13,7 @@
    **Parameters**
    firstName::String, lastName::String
    
-   **Class
+   **Class**
    org.demo.SampleService1
    
    
