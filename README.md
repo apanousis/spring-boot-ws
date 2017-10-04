@@ -6,7 +6,7 @@
    firstName::String, lastName::String
    
    **Class**
-   eu.agileactors.SampleService1
+   org.demo.SampleService1
 
 #### 2. http://localhost:8080/sample2?wsdl
    
@@ -14,7 +14,7 @@
    firstName::String, lastName::String
    
    **Class
-   eu.agileactors.SampleService1
+   org.demo.SampleService1
    
    
 ###### Notes
